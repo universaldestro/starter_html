@@ -1,0 +1,28 @@
+
+body{
+background-color: white;
+}
+h1{
+    font-size: 12;
+    font-family: 'Courier New', Courier, monospace ;
+    align-items: center;
+}
+h2{
+    font-size: 12;
+    font-family: 'Courier New', Courier, monospace ;
+    align-items: center;
+}
+h3{
+    font-size: 12;
+    font-family: 'Courier New', Courier, monospace ;
+    color: black;
+}
+p{
+    line-height: double;
+}
+img{
+    border: solid black 5px;
+    padding: 10px;
+    margin: 20 px;
+    border-top-right-radius: 30px;
+}
